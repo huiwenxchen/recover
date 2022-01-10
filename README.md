@@ -1,3 +1,3 @@
 # recover
 
-This program uses forensic image to recover JEPGS that were “deleted” from the memory card.
+This program recovers JEPGS from foresnic image.
